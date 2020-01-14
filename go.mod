@@ -1,10 +1,10 @@
 module github.com/randiekas/whatsapp
 
 require (
-	github.com/randiekas/whatsapp/examples/echo v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/randiekas/whatsapp/examples/restoreSession v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/randiekas/whatsapp/examples/sendImage v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/randiekas/whatsapp/examples/sendTextMessages v0.0.0-20190325075644-cc2581bbf24d // indirect
+	github.com/randiekas/whatsapp/examples/echo v1.2.3 // indirect
+	github.com/randiekas/whatsapp/examples/restoreSession v1.2.3 // indirect
+	github.com/randiekas/whatsapp/examples/sendImage v1.2.3 // indirect
+	github.com/randiekas/whatsapp/examples/sendTextMessages v1.2.3 // indirect
 	github.com/golang/protobuf v1.3.0
 	github.com/gorilla/websocket v1.4.0
 	github.com/pkg/errors v0.8.1
